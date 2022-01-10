@@ -43,7 +43,7 @@ func (BbqSauce) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BbqSauce) Name() string {
-	return "BbqSauce"
+	return "Bbq Sauce"
 }
 
 // Texture ...

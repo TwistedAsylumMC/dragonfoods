@@ -43,7 +43,7 @@ func (BokChoy) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BokChoy) Name() string {
-	return "BokChoy"
+	return "Bok Choy"
 }
 
 // Texture ...

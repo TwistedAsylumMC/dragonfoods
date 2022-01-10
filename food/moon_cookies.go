@@ -43,7 +43,7 @@ func (MoonCookies) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (MoonCookies) Name() string {
-	return "MoonCookies"
+	return "Moon Cookies"
 }
 
 // Texture ...

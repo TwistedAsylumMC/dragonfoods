@@ -43,7 +43,7 @@ func (BellPeppers) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BellPeppers) Name() string {
-	return "BellPeppers"
+	return "Bell Peppers"
 }
 
 // Texture ...

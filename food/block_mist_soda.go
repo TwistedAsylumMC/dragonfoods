@@ -43,7 +43,7 @@ func (BlockMistSoda) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BlockMistSoda) Name() string {
-	return "BlockMistSoda"
+	return "Block Mist Soda"
 }
 
 // Texture ...

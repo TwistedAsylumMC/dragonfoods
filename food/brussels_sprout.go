@@ -43,7 +43,7 @@ func (BrusselsSprout) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BrusselsSprout) Name() string {
-	return "BrusselsSprout"
+	return "Brussels Sprout"
 }
 
 // Texture ...

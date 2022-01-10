@@ -43,7 +43,7 @@ func (SugerCubes) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (SugerCubes) Name() string {
-	return "SugerCubes"
+	return "Suger Cubes"
 }
 
 // Texture ...

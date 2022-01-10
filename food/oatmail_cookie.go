@@ -43,7 +43,7 @@ func (OatmailCookie) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (OatmailCookie) Name() string {
-	return "OatmailCookie"
+	return "Oatmail Cookie"
 }
 
 // Texture ...

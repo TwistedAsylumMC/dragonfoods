@@ -43,7 +43,7 @@ func (SpicyCheesePuffs) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (SpicyCheesePuffs) Name() string {
-	return "SpicyCheesePuffs"
+	return "Spicy Cheese Puffs"
 }
 
 // Texture ...

@@ -43,7 +43,7 @@ func (GlowBerryPie) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (GlowBerryPie) Name() string {
-	return "GlowBerryPie"
+	return "Glow Berry Pie"
 }
 
 // Texture ...

@@ -43,7 +43,7 @@ func (WhiteLolipop) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (WhiteLolipop) Name() string {
-	return "WhiteLolipop"
+	return "White Lolipop"
 }
 
 // Texture ...

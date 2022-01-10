@@ -43,7 +43,7 @@ func (FryingPan) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (FryingPan) Name() string {
-	return "FryingPan"
+	return "Frying Pan"
 }
 
 // Texture ...

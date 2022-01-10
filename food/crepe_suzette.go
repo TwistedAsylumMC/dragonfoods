@@ -43,7 +43,7 @@ func (CrepeSuzette) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (CrepeSuzette) Name() string {
-	return "CrepeSuzette"
+	return "Crepe Suzette"
 }
 
 // Texture ...

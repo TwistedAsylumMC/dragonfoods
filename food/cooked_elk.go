@@ -43,7 +43,7 @@ func (CookedElk) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (CookedElk) Name() string {
-	return "CookedElk"
+	return "Cooked Elk"
 }
 
 // Texture ...

@@ -43,7 +43,7 @@ func (FigJam) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (FigJam) Name() string {
-	return "FigJam"
+	return "Fig Jam"
 }
 
 // Texture ...

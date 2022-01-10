@@ -43,7 +43,7 @@ func (RawOmlet) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (RawOmlet) Name() string {
-	return "RawOmlet"
+	return "Raw Omlet"
 }
 
 // Texture ...

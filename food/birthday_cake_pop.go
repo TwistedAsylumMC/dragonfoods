@@ -43,7 +43,7 @@ func (BirthdayCakePop) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BirthdayCakePop) Name() string {
-	return "BirthdayCakePop"
+	return "Birthday Cake Pop"
 }
 
 // Texture ...

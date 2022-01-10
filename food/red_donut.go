@@ -43,7 +43,7 @@ func (RedDonut) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (RedDonut) Name() string {
-	return "RedDonut"
+	return "Red Donut"
 }
 
 // Texture ...

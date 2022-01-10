@@ -43,7 +43,7 @@ func (BanhMi) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BanhMi) Name() string {
-	return "BanhMi"
+	return "Banh Mi"
 }
 
 // Texture ...

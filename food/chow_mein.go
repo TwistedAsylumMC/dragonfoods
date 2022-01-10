@@ -43,7 +43,7 @@ func (ChowMein) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (ChowMein) Name() string {
-	return "ChowMein"
+	return "Chow Mein"
 }
 
 // Texture ...

@@ -43,7 +43,7 @@ func (SpiteSoda) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (SpiteSoda) Name() string {
-	return "SpiteSoda"
+	return "Spite Soda"
 }
 
 // Texture ...

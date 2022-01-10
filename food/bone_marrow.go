@@ -43,7 +43,7 @@ func (BoneMarrow) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BoneMarrow) Name() string {
-	return "BoneMarrow"
+	return "Bone Marrow"
 }
 
 // Texture ...

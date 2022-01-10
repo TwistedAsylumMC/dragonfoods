@@ -43,7 +43,7 @@ func (FantaSoda) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (FantaSoda) Name() string {
-	return "FantaSoda"
+	return "Fanta Soda"
 }
 
 // Texture ...

@@ -43,7 +43,7 @@ func (YellowJello) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (YellowJello) Name() string {
-	return "YellowJello"
+	return "Yellow Jello"
 }
 
 // Texture ...

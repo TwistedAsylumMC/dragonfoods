@@ -43,7 +43,7 @@ func (BakedVolcanoCake) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BakedVolcanoCake) Name() string {
-	return "BakedVolcanoCake"
+	return "Baked Volcano Cake"
 }
 
 // Texture ...

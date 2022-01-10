@@ -43,7 +43,7 @@ func (LemonLimeEnergyDrink) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (LemonLimeEnergyDrink) Name() string {
-	return "LemonLimeEnergyDrink"
+	return "Lemon Lime Energy Drink"
 }
 
 // Texture ...

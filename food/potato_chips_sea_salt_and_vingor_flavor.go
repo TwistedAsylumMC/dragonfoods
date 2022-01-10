@@ -43,7 +43,7 @@ func (PotatoChipsSeaSaltAndVingorFlavor) EncodeItem() (name string, meta int16) 
 
 // Name ...
 func (PotatoChipsSeaSaltAndVingorFlavor) Name() string {
-	return "PotatoChipsSeaSaltAndVingorFlavor"
+	return "Potato Chips Sea Salt And Vingor Flavor"
 }
 
 // Texture ...

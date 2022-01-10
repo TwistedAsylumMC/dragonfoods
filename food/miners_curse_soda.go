@@ -43,7 +43,7 @@ func (MinersCurseSoda) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (MinersCurseSoda) Name() string {
-	return "MinersCurseSoda"
+	return "Miners Curse Soda"
 }
 
 // Texture ...

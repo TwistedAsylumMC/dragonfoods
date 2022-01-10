@@ -43,7 +43,7 @@ func (GalloPinto) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (GalloPinto) Name() string {
-	return "GalloPinto"
+	return "Gallo Pinto"
 }
 
 // Texture ...

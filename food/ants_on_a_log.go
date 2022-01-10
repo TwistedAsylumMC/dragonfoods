@@ -43,7 +43,7 @@ func (AntsOnALog) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (AntsOnALog) Name() string {
-	return "AntsOnALog"
+	return "Ants On A Log"
 }
 
 // Texture ...

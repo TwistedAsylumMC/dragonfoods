@@ -43,7 +43,7 @@ func (BagOfSuger) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BagOfSuger) Name() string {
-	return "BagOfSuger"
+	return "Bag Of Suger"
 }
 
 // Texture ...

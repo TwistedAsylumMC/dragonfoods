@@ -43,7 +43,7 @@ func (SaltineCrackers) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (SaltineCrackers) Name() string {
-	return "SaltineCrackers"
+	return "Saltine Crackers"
 }
 
 // Texture ...

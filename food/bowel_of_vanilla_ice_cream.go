@@ -43,7 +43,7 @@ func (BowelOfVanillaIceCream) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BowelOfVanillaIceCream) Name() string {
-	return "BowelOfVanillaIceCream"
+	return "Bowel Of Vanilla Ice Cream"
 }
 
 // Texture ...

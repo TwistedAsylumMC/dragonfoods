@@ -43,7 +43,7 @@ func (RootbeerFloat) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (RootbeerFloat) Name() string {
-	return "RootbeerFloat"
+	return "Rootbeer Float"
 }
 
 // Texture ...

@@ -43,7 +43,7 @@ func (PeanutButterEnergyBar) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (PeanutButterEnergyBar) Name() string {
-	return "PeanutButterEnergyBar"
+	return "Peanut Butter Energy Bar"
 }
 
 // Texture ...

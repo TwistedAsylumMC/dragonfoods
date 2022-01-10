@@ -43,7 +43,7 @@ func (BlueBerryWine) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BlueBerryWine) Name() string {
-	return "BlueBerryWine"
+	return "Blue Berry Wine"
 }
 
 // Texture ...

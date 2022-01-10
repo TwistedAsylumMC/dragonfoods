@@ -43,7 +43,7 @@ func (SunnyChips) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (SunnyChips) Name() string {
-	return "SunnyChips"
+	return "Sunny Chips"
 }
 
 // Texture ...

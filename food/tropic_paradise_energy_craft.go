@@ -43,7 +43,7 @@ func (TropicParadiseEnergyCraft) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (TropicParadiseEnergyCraft) Name() string {
-	return "TropicParadiseEnergyCraft"
+	return "Tropic Paradise Energy Craft"
 }
 
 // Texture ...

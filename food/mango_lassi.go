@@ -43,7 +43,7 @@ func (MangoLassi) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (MangoLassi) Name() string {
-	return "MangoLassi"
+	return "Mango Lassi"
 }
 
 // Texture ...

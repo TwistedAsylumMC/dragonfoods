@@ -43,7 +43,7 @@ func (TropicalJam) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (TropicalJam) Name() string {
-	return "TropicalJam"
+	return "Tropical Jam"
 }
 
 // Texture ...

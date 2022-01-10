@@ -43,7 +43,7 @@ func (RainbowCookie) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (RainbowCookie) Name() string {
-	return "RainbowCookie"
+	return "Rainbow Cookie"
 }
 
 // Texture ...

@@ -43,7 +43,7 @@ func (BannanaJam) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BannanaJam) Name() string {
-	return "BannanaJam"
+	return "Bannana Jam"
 }
 
 // Texture ...

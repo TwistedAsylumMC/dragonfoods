@@ -43,7 +43,7 @@ func (HamSub) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (HamSub) Name() string {
-	return "HamSub"
+	return "Ham Sub"
 }
 
 // Texture ...

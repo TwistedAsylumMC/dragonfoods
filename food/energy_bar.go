@@ -43,7 +43,7 @@ func (EnergyBar) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (EnergyBar) Name() string {
-	return "EnergyBar"
+	return "Energy Bar"
 }
 
 // Texture ...

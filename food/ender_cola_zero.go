@@ -43,7 +43,7 @@ func (EnderColaZero) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (EnderColaZero) Name() string {
-	return "EnderColaZero"
+	return "Ender Cola Zero"
 }
 
 // Texture ...

@@ -43,7 +43,7 @@ func (GrapeSoda) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (GrapeSoda) Name() string {
-	return "GrapeSoda"
+	return "Grape Soda"
 }
 
 // Texture ...

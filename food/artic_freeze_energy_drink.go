@@ -43,7 +43,7 @@ func (ArticFreezeEnergyDrink) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (ArticFreezeEnergyDrink) Name() string {
-	return "ArticFreezeEnergyDrink"
+	return "Artic Freeze Energy Drink"
 }
 
 // Texture ...

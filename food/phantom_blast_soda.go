@@ -43,7 +43,7 @@ func (PhantomBlastSoda) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (PhantomBlastSoda) Name() string {
-	return "PhantomBlastSoda"
+	return "Phantom Blast Soda"
 }
 
 // Texture ...

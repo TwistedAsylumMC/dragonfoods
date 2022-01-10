@@ -43,7 +43,7 @@ func (ChesseCake) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (ChesseCake) Name() string {
-	return "ChesseCake"
+	return "Chesse Cake"
 }
 
 // Texture ...

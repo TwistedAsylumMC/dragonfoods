@@ -43,7 +43,7 @@ func (TunaSandwhich) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (TunaSandwhich) Name() string {
-	return "TunaSandwhich"
+	return "Tuna Sandwhich"
 }
 
 // Texture ...

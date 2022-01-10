@@ -43,7 +43,7 @@ func (BlackBerries) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (BlackBerries) Name() string {
-	return "BlackBerries"
+	return "Black Berries"
 }
 
 // Texture ...

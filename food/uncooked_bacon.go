@@ -43,7 +43,7 @@ func (UncookedBacon) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (UncookedBacon) Name() string {
-	return "UncookedBacon"
+	return "Uncooked Bacon"
 }
 
 // Texture ...

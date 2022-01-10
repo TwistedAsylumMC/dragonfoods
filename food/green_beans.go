@@ -43,7 +43,7 @@ func (GreenBeans) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (GreenBeans) Name() string {
-	return "GreenBeans"
+	return "Green Beans"
 }
 
 // Texture ...

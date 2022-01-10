@@ -43,7 +43,7 @@ func (FudgeChips) EncodeItem() (name string, meta int16) {
 
 // Name ...
 func (FudgeChips) Name() string {
-	return "FudgeChips"
+	return "Fudge Chips"
 }
 
 // Texture ...

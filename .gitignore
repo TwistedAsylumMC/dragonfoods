@@ -1,0 +1,10 @@
+# JetBrains
+.idea/
+
+# Dragonfly
+/world/
+/players/
+/resources/
+
+# DragonFoods
+assets/
